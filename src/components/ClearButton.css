@@ -1,0 +1,12 @@
+.clear-btn {
+    height: 4em;
+    display: flex;
+    font-size:  1.4em;
+    font-weight:lighter;
+    justify-content: center;
+    align-items: center;
+    background-color:#c5c3cd;
+    color:#000;
+    flex: 1;
+    outline: 1px solid #888;
+}
